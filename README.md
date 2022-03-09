@@ -4,7 +4,7 @@
 
 ShinDAO is a protocol on EVM-based blockchains that aims to connect local producers with artists and possible crypto investors to collectively produce goods and make the products accessible to customers in major cities.
 
-[<img src="./assets/imgs/shindao-download-proposal.jpg">](./ShinDAO%20Proposal%20to%20UNICEF.pdf)
+[<img src="./assets/imgs/shindao-download-proposal.jpg">](https://github.com/shin-dao/proposal/raw/main/ShinDAO%20Proposal%20to%20UNICEF.pdf)
 Download and read our proposal in PDF.
 
 
@@ -141,7 +141,7 @@ The protocol benefits enabling parties in its interconnected financial ecosystem
 - Additional to a native user interface market, other commercial entities such as e-commerce stores, marketplaces, individual developers can integrate with the protocol, gain tokens for bringing active participation and profit from the sales of the end-products.
 
 View the technical flowcharts by downloading and reading the proposal's.
-[<img src="./assets/imgs/shindao-download-proposal.jpg">](./ShinDAO%20Proposal%20to%20UNICEF.pdf)
+[<img src="./assets/imgs/shindao-download-proposal.jpg">](https://github.com/shin-dao/proposal/raw/main/ShinDAO%20Proposal%20to%20UNICEF.pdf)
 
 ## Appreciation and Contact
 Thanks for reading through. If you dream for a better world, don't stop to change it. 
